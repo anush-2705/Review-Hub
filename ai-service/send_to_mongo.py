@@ -12,7 +12,7 @@ import json
 # CONFIG
 # ─────────────────────────────────────────────
 NODE_API = "http://localhost:3001"   # your friend's Node.js backend port
-FLASK_API = "http://localhost:5000"  # your Flask backend
+FLASK_API = "https://review-hub-1-o18g.onrender.com"  # your Flask backend
 
 # ─────────────────────────────────────────────
 # ASK YOUR FRIEND: what is the branchId for each branch?

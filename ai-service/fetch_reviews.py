@@ -25,7 +25,7 @@ from datetime import datetime
 # CONFIG
 # ─────────────────────────────────────────────
 NODE_API  = "http://localhost:3001"
-FLASK_API = "http://localhost:5000"
+FLASK_API = "https://review-hub-1-o18g.onrender.com"
 
 # No ObjectIds needed for Firebase — just use branch names!
 RESTAURANTS = [
