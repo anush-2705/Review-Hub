@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "review-management-488822",
+  "private_key_id": "1dbf163a3f676a84677d7cea77bb888d13386f87",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDR/SoVxI8p9Xfz\ngUtDvrVoQOxn6CRcAvDWuPHqV0afNKUeiVavwGMxNNj6LXLYE2PxrHSolJDc7qUy\nhTkFYX1bVw9tf1xvSbctn/G1wp5BwobjWAnvMo7XPyJxfXgBk4mwI+ty9CaZwj3j\nz/fAeLZUu6b2e/P8NaK82/Odb452DpcTj8lDrocQeYgODb9uSXAd0aUCzduOUtG/\n6xnY4PAbbRxOK6a4MbGUbOme1IHVwPqQ0syPcREmaurKSCvvTXOizSCobupxZQfW\nrtqBYpSpQVJH/7tcMPyOK/MHDaArk0f1s0Sazfvc5dEOgYIvmPGlRrogkXS7fn50\nZrGJhCfDAgMBAAECggEAAupvASpfioecCMeM0f396tqr7a1tg9GOooyi30wi8Ob8\nO/ZQO9SCDBbdxGuJIrLyOlLYs9aMRGUT6iWrawW1heUpk62nDOyLHJkR9CIlrGgV\nE2cPjEC5dwerZMQHPI5d5RI6nLgDKTNnRJiIqiWC8p5AbT+/XYspHVI4icEYy07W\nFpqhCnAtDzEHk3RDplLIIQB/AI4gIYdwuUh9cr7M2+n6FWW2mvg4ITjGLyGvxlpj\nb7YGShbhBuYExGpBXM9YlIdeebo9z92u1Xwrj3aeZMZeYDwKgPG5WrS573YzJIWm\n76P10L1jZQ+EluUZZMBaZn/1zBb4oaEwyaCzKPGS4QKBgQD+oGaux7quDSh3smzq\nmlvuYLM0aGUSg8RXVyacJJcenxTmLZgVgClbP0tBWVWOu/bHqSBWuiGN2aL2TyEM\n6yuwzW/YpmyfZXcs8T30SxvWrdbxbxK9BfFveGY4L3U43qot8z899bujmXgq+2vr\nTRpH99Qr5+7x8p2XADEQqvA9ywKBgQDTHyAzgKyIu9Yxat1JIONAiJ4oSjKUQCCx\nWBwOhGTvqs7tuRu5iWIMyMfNbprTlPYkz6fFIhAu94dYgi3vdHXD/nOBFp/2DuJn\nyibmUKt+kxz5JwPanROU10wFDrIdZFFXiTvqUOZr1FT9utZ+K7V6LRCStVL55Q98\nUphuVRZ+6QKBgQDRLVaNuTkMKXUYODUv2dUyFLDDmguGVUdj9Q2b8pdPKaMSoVwy\nNZJECtA5BDm8Q4AtcCxH8ysDjEpLDKB7K2s+GNcMZVQQ8lsgSaL64QUirLdKqlP7\ngzlfuMpI1/v11z549z76GLioYriMnvV+XV38x4S++Q+cJhL+bMLiDXvFVwKBgHK2\nEdAKFTUCIqKdNvkaBoA0+wJXNl447cqOXkhBBXr3qxGdp4PLMtxRZ8amVzepU4iy\nz6ycEoECe6bKrNzTwX0pz2aPfYC7m6bbPwGbSWMv2elCmqR4/n+775E75+lybYQL\ni+OH63shVsC6ePr7EtL8k2mzXg9rt1tMoYgpcVypAoGAWMimsIIngNKhu/MMUjrZ\nylsRGkwHVdimCRaqZnqN8HWIfx0wKn8MYC+kjiy76Mzz1oFTaQZJkeSu696mWxRG\n+9WsMD67R0ix1F92Avi1NUd+2F36nBECwqa/+9BmHsnfskwqza690blTQ1vFk3iv\nIEktyEt69koigPgQhWoh860=\n-----END PRIVATE KEY-----\n",
+  "client_email": "reviewhub-sheets-reader@review-management-488822.iam.gserviceaccount.com",
+  "client_id": "102725717138132297386",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/reviewhub-sheets-reader%40review-management-488822.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
